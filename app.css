@@ -15,7 +15,7 @@ body {
     border-radius: 60px;
     height: 700px;
     width: 450px;
-    background-color: rgba(246, 255, 248, 40%);
+    background-color: rgba(246, 255, 248, 60%);
     display: grid;
     grid-template-rows: 1fr 2.5fr;
     gap: 15px;
